@@ -1,0 +1,56 @@
+@import url(/css/bar.css);
+*{
+    box-sizing: border-box;
+
+}
+body{
+    margin:  0 0 0 0;
+    font-family: sans-serif;
+     background-image: url("../img/pagos.jpg");
+     background-repeat: no-repeat;
+     background-size: 100%;
+}
+.formulario{
+    background-color:rgba(51, 51, 51,0.9);
+    width: 700px;
+    max-width: 100%;
+    margin-top: 10px;
+    margin-left: -50px;
+    padding: 15px;
+    border-radius: 30px 30px 0px 0px;
+    -moz-border-radius: 30px 30px 0px 0px;
+    -webkit-border-radius: 30px 30px 30px 30px;
+}
+.formulario2{
+    background-color:rgba(51, 51, 51,0.9);
+    width: 450px;
+    max-width: 36%;
+    margin-top: -364px;
+    margin-left: 300px;
+    padding: 10px;
+    border-radius: 30px 30px 0px 0px;
+    -moz-border-radius: 30px 30px 0px 0px;
+    -webkit-border-radius: 30px 30px 30px 30px;
+}
+.formulario3{
+    background-color:rgba(51, 51, 51,0.9);
+    width: 450px;
+    max-width:  36%;
+    margin-top: -364px;
+    margin-left: 650px;
+    padding: 10px;
+    border-radius: 30px 30px 0px 0px;
+    -moz-border-radius: 30px 30px 0px 0px;
+    -webkit-border-radius: 30px 30px 30px 30px;
+}
+.label{
+    color: white;
+}
+.btn{
+    margin-left:890px;
+    margin-top: -1245px;
+    
+}
+title{
+    color: blue;
+}
